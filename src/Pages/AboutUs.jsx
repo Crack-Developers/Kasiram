@@ -23,7 +23,11 @@ const AboutUs = () => {
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl font-semibold text-center text-blue-800">Our Mission</h2>
           <p className="mt-4 text-lg text-gray-700 text-center">
-            At Kasiram Overseas, our mission is to empower students with the knowledge, resources, and guidance required to achieve academic success in leading universities across the world. We strive to make international education accessible, ensuring students make informed decisions and achieve their goals confidently.
+              <li>To provide honest, transparent, and expert guidance for students seeking education abroad.</li>
+              <li>To simplify the admission and visa process, making international education accessible to students from diverse backgrounds.</li>
+              <li>To collaborate with top universities worldwide, ensuring the best academic opportunities for our students.</li>
+              <li>To help students secure scholarships and financial aid, making quality education affordable.</li>
+              <li>To support students beyond admissions, offering career guidance, pre-departure training, and post-arrival assistance.</li>
           </p>
         </div>
       </section>
@@ -32,7 +36,7 @@ const AboutUs = () => {
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl font-semibold text-center text-blue-800">Our Vision</h2>
           <p className="mt-4 text-lg text-gray-700 text-center">
-            To become the leading overseas education consultancy, recognized for our excellence in guiding students towards fulfilling their dreams of studying abroad and building successful global careers.
+          To be a trusted global leader in overseas education consulting by empowering students with the right knowledge, opportunities, and guidance to excel in their academic and professional careers.
           </p>
         </div>
       </section>
@@ -42,11 +46,12 @@ const AboutUs = () => {
           <div className="p-6 bg-white shadow-lg rounded-lg hover:shadow-xl transition duration-300">
             <h3 className="text-2xl font-semibold text-blue-800">Why Choose Us?</h3>
             <ul className="mt-4 text-lg text-gray-700 list-disc pl-6">
-              <li>Comprehensive Services: From counseling to pre-departure support, we provide end-to-end services.</li>
-              <li>Experienced Counselors: Our team consists of knowledgeable professionals with years of experience.</li>
-              <li>Global University Network: We partner with top universities to offer the best options to students.</li>
-              <li>Personalized Approach: We understand each student’s unique goals and tailor our services accordingly.</li>
-              <li>High Visa Success Rate: We boast an impressive track record in helping students secure visas successfully.</li>
+              <li>Expert Guidance – A team of experienced counselors with in-depth knowledge of global education trends.</li>
+              <li>100% Visa Success Rate – Dedicated visa assistance, mock interviews, and error-free documentation.</li>
+              <li>Scholarship & Financial Aid Support – Helping students secure scholarships, grants, and education loans to ease financial burdens.</li>
+              <li>University Partnerships – Strong connections with leading universities for direct admissions and priority applications.</li>
+              <li>Personalized Career Counseling – Tailored advice based on students’ academic background, goals, and financial constraints.</li>
+              <li>Comprehensive Support – From course selection to post-arrival assistance, we stand by students at every step.</li>
             </ul>
           </div>
           <div className="p-6 bg-white shadow-lg rounded-lg hover:shadow-xl transition duration-300">
