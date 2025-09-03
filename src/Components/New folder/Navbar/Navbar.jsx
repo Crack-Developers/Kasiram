@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { FaFacebookF, FaInstagram, FaTwitter, FaLinkedinIn, FaBars, FaTimes } from 'react-icons/fa';
 import { MdEmail, MdPhone } from 'react-icons/md';
-import Logo from "../../../assets/klogo.png";
+import Logo from "../../../assets/rbgklogo1.png";
 import 'aos/dist/aos.css';
 import AOS from 'aos';
 
@@ -64,7 +64,7 @@ const Navbar = () => {
             <img
               src={Logo}
               alt="Crack Developers Logo"
-              className="h-20 w-60 bg-primary rounded-2xl p-2 shadow-md"
+              className="h-20 rounded-2xl p-2 "
             />
           </div>
 
@@ -96,9 +96,11 @@ const Navbar = () => {
                   <a href="/uk" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition duration-300">UK</a>
                   <a href="canada" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition duration-300">Canada</a>
                   <a href="/australia" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition duration-300">Australia</a>
-                  <a href="newzealand" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition duration-300">New Zealand</a>
+                  <a href="/france" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition duration-300">France</a>
                   <a href="/ireland" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition duration-300">Ireland</a>
                   <a href="/usa" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition duration-300">USA</a>
+                  <a href="/germany" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition duration-300">Germany</a>
+                  <a href="/spain" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition duration-300">Spain</a>
                   <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition duration-300">View More</a>
                 </div>
               )}
@@ -131,9 +133,11 @@ const Navbar = () => {
                   <a href="/uk" className="block px-4 py-2 text-black hover:bg-gray-100 transition duration-300">UK</a>
                   <a href="/canada" className="block px-4 py-2 text-black hover:bg-gray-100 transition duration-300">Canada</a>
                   <a href="/australia" className="block px-4 py-2 text-black hover:bg-gray-100 transition duration-300">Australia</a>
-                  <a href="/newzealand" className="block px-4 py-2 text-black hover:bg-gray-100 transition duration-300">New Zealand</a>
+                  <a href="/france" className="block px-4 py-2 text-black hover:bg-gray-100 transition duration-300">France</a>
                   <a href="/ireland" className="block px-4 py-2 text-black hover:bg-gray-100 transition duration-300">Ireland</a>
                   <a href="/usa" className="block px-4 py-2 text-black hover:bg-gray-100 transition duration-300">USA</a>
+                  <a href="/germany" className="block px-4 py-2 text-black hover:bg-gray-100 transition duration-300">Germany</a>
+                  <a href="/spain" className="block px-4 py-2 text-black hover:bg-gray-100 transition duration-300">Spain</a>
                   <a href="#" className="block px-4 py-2 text-black hover:bg-gray-100 transition duration-300">View More</a>
                 </div>
               )}

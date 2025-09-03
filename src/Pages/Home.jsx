@@ -8,6 +8,7 @@ import Newsletter from '../Components/Notify me/NewsLetter';
 import WhyKasiram from "../Components/WhyKasiram/WhyKasiram";
 import Testimonials from '../Components/Countries/Countries';
 import Footer from '../Components/Footer/Footer';
+import Reviews from '../Components/Testrimonial/Testrimonial'
 
 const Home = () => {
   const [showPopup, setShowPopup] = useState(false);
@@ -50,6 +51,7 @@ const Home = () => {
       <TopCountries />
       <Blogs />
       <Newsletter />
+      <Reviews />
       <WhyKasiram />
       <Testimonials />
       <Footer />
