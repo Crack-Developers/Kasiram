@@ -16,7 +16,7 @@ const blogs = [
     title: "University of Oxford",
       description:
         "Oxford offers a wide range of scholarships for international students, making world-class education more affordable.",
-      image: "https://www.ethoshotels.co.uk/wp-content/uploads/2020/02/161947_Viator_Shutterstock_121978.jpg",
+      image: "https://www.discoverbritain.com/_gatsby/file/1d6571ab21fd5c02655672b559e2bb18/cover%20photo.png?imwidth=680",
     link: "#"
   },
   {

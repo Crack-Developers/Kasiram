@@ -8,7 +8,7 @@ const ProductsData = [
   },
   {
     id: 2,
-    img: "https://masteringtheheart.com/wp-content/uploads/2023/02/Day-299-Experience-vs.-Expertise-1024x576.jpg",
+    img: "https://specials-images.forbesimg.com/dam/imageserve/1139630460/960x0.jpg?fit=scale",
     title: "Expertise and Experience",
   },
   {
