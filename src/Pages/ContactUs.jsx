@@ -1,4 +1,4 @@
-import React from "react";
+
 import Navbar from "../Components/New folder/Navbar/Navbar";
 import Footer from "../Components/Footer/Footer";
 import { motion } from "framer-motion";
@@ -159,7 +159,7 @@ const ContactUs = () => {
           </div>
           <iframe
             className="w-full h-64 rounded-lg shadow-lg"
-            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3071.5364175750065!2d80.19265967507837!3d13.084776287241077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDA1JzA1LjIiTiA4MMKwMTEnNDIuOCJF!5e1!3m2!1sen!2sin!4v1743396635331!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3516.832553207275!2d80.1937556!3d13.084828300000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265361b40438f%3A0x155cd61c85a400cf!2sGanga%20SWEETS%20HEAD%20OFFICE!5e1!3m2!1sen!2sin!4v1778840329152!5m2!1sen!2sin"
             allowFullScreen=""
             loading="lazy"
           ></iframe>
