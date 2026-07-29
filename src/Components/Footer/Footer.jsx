@@ -117,9 +117,22 @@ const Footer = () => {
           </div>
         </div>
         {/* Copyright Section */}
-        <div className="text-center py-6 border-t border-gray-500 text-gray-300">
-          © {currentDate.getFullYear()} Kasiram Overseas | Empowering Global
-          Education
+        <div className="border-t border-white/20 mt-8 py-6 text-center">
+          <p className="text-white text-lg">
+            © 2026 Kasiram Overseas | Empowering Global Education
+          </p>
+        
+          <p className="mt-3 text-white text-sm">
+            Developed by{" "}
+            <a
+              href="https://crackdevelopers.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-bold text-yellow-400 hover:text-yellow-300"
+            >
+              Crack Developers
+            </a>
+          </p>
         </div>
       </section>
     </div>
