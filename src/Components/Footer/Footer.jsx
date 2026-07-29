@@ -130,7 +130,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="font-bold text-yellow-400 hover:text-yellow-300"
             >
-              Crack Developers
+              crackdevelopers.com
             </a>
           </p>
         </div>
